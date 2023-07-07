@@ -1,6 +1,6 @@
 # Backend
 
-The backend API for my medium post. Has a dependency on AWS Cognito. Requires a valid AWS Cognito user token for authentication.
+The backend API for my [medium post](https://medium.com/@garry.passarella/6da6a97c5853). Has a dependency on AWS Cognito. Requires a valid AWS Cognito user token for authentication.
 
 ## Running the app
 
